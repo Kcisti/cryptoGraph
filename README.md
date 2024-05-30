@@ -1,5 +1,13 @@
 # Presentation
-
+A simple and intuitive algorithm for text encryption.
+Features:
+  - Super Secure: Uses state-of-the-art encryption techniques.
+  - Fast: Encrypt and decrypt your data in a flash.
+How it Works:
+  - Enter Data: Add data to be encrypted.
+  - Encrypt: Protect your data.
+  - Decryption: Recovers data with the key.
+  - 
 # Tested on platforms:
   - Windows
   - Linux
