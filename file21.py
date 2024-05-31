@@ -36,5 +36,3 @@ def main():
             except:
                 decodeMsg = decodeMsg + '?'
         print(f' {Wh}Decoded msg: {Gr}{decodeMsg}')
-
-main()
